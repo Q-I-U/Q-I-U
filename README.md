@@ -2,7 +2,7 @@
 
 ## About me
 ### 📱 Contact: 📱 <br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Email: [alex@alexslomka.xyz](mailto:alex@alexslomka.xyz)
 
 ## My GitHub:
 ### 📈 My stats: 📈 <br>
