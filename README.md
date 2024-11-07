@@ -2,7 +2,7 @@
 
 Langauage stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-x&show_icons=true&theme=dark&layout=compact&exclude_repo=linux&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-x&show_icons=true&theme=transparent&layout=compact&exclude_repo=linux&count_private=true&include_all_commits=true)
 
 #  
 
